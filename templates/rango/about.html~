@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+{% load static %}
+
+<html>
+  <head>
+	<title>about</title>
+  </head>
+
+  <body>
+	<h1>This is about page still in building process...</h1>
+	<a href href="/rango/index/">Index</a><br />
+	<img src = "{% static "rango.jpp" %}" alt="about" />  
+</body>
+</html>
